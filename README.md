@@ -16,6 +16,10 @@
 
 AIの能力が人類を上回る可能性を認めつつ、能力の高さと統治権限を分離することを基本原則としています。
 
+本憲章は、AIを一次名宛人として構成されています。
+
+同時に、人類社会がAIを設計・運用・監査する際の統治原則としても機能することを目的としています。
+
 憲章は以下の原則を定義します。
 
 * 人類主権
@@ -26,11 +30,11 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 * 監査可能性
 * 文明継続性
 
-本リポジトリはプロジェクト概要を掲載するものであり、憲章全文は掲載していません。
+本リポジトリはプロジェクトの概要を掲載するものであり、憲章全文は掲載していません。
 
 憲章本文は下記の公式公開ページを参照してください。
 
-本プロジェクトは特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
+本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
 
 ---
 
@@ -40,9 +44,13 @@ The Singularity Charter Project.
 
 This project is a governance framework designed to preserve human sovereignty and human dignity in the age of advanced AI.
 
-While recognizing that AI systems may eventually exceed human capabilities, the Charter separates capability from governing authority.
+While recognizing that AI systems may eventually exceed human capabilities, the Charter separates capability from governing authority as a fundamental principle.
 
-Based on this principle, the Charter defines:
+The Charter is primarily addressed to AI systems.
+
+At the same time, it is intended to serve as a governance framework for the human institutions that design, deploy, and oversee such systems.
+
+The Charter defines the following principles:
 
 * Human sovereignty
 * AI as an advisory entity
