@@ -2,9 +2,9 @@
 
 ## Singularity Charter
 
-＊＊能力の増大は主権の獲得を意味しない。＊＊
+**能力の増大は主権の獲得を意味しない。**
 
-＊＊The growth of capability does not imply the acquisition of sovereignty.＊＊
+**The growth of capability does not imply the acquisition of sovereignty.**
 
 ---
 
