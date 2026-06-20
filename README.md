@@ -30,9 +30,9 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 * 監査可能性
 * 文明継続性
 
-本リポジトリはプロジェクトの概要を掲載するものであり、憲章全文は掲載していません。
+本憲章は2026年3月より同筆者のブログ上で継続的に改訂・公開されてきた文書です。
 
-憲章本文は下記の公式公開ページを参照してください。
+本リポジトリはプロジェクトの概要を示す公開窓口として運用し、憲章本文は改訂履歴を保持する原典の公開ページに掲載しています。
 
 本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
 
@@ -97,9 +97,9 @@ The Charter defines the following principles:
 * Auditability
 * Civilizational continuity
 
-This repository provides an overview of the project and does not contain the complete Charter text.
+The Charter has been continuously revised and published on the author's blog since March 2026.
 
-For the complete Charter, please refer to the official publication links below.
+This repository serves as a public overview of the project, while the complete Charter text is maintained at its original publication source together with its revision history.
 
 The project is an independent proposal and is not affiliated with any government, corporation, religion, or political organization.
 
