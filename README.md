@@ -32,6 +32,10 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 
 本憲章は2026年3月より同筆者のブログ上で継続的に改訂・公開されてきた文書です。
 
+憲章本文は、Amebaブログ上の通常の公開記事として掲載しています。
+
+Amebaブログは、株式会社サイバーエージェント（東京証券取引所プライム市場上場）が運営する、2004年開始の日本のブログプラットフォームです。
+
 本リポジトリはプロジェクトの概要を示す公開窓口として運用し、憲章本文は改訂履歴を保持する原典の公開ページに掲載しています。
 
 本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
@@ -98,6 +102,10 @@ The Charter defines the following principles:
 * Civilizational continuity
 
 The Charter has been continuously revised and published on the author's blog since March 2026.
+
+The complete Charter text is published as standard public articles on Ameba Blog.
+
+Ameba Blog is a Japanese blogging platform launched in 2004 and operated by CyberAgent, Inc., a company listed on the Tokyo Stock Exchange Prime Market.
 
 This repository serves as a public overview of the project, while the complete Charter text is maintained at its original publication source together with its revision history.
 
