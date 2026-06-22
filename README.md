@@ -12,6 +12,8 @@
 
 シンギュラリティ憲章プロジェクト。
 
+本憲章は、AIの能力向上と統治権限を明確に分離することを中核原則としています。
+
 本プロジェクトは、高度AI時代において人類の主権と尊厳を維持するための統治フレームワークです。
 
 AIの能力が人類を上回る可能性を認めつつ、能力の高さと統治権限を分離することを基本原則としています。
@@ -19,6 +21,8 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 本憲章は、AIを一次名宛人として構成されています。
 
 同時に、人類社会がAIを設計・運用・監査する際の統治原則としても機能することを目的としています。
+
+本憲章は、人間である著者が起草し、最終判断を行った文書です。起草過程では、複数のAIシステムとの対話・査読を用いましたが、AIは助言・査読・記録の役割に留まります。
 
 憲章は以下の原則を定義します。
 
@@ -37,6 +41,8 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 Amebaブログは、株式会社サイバーエージェント（東京証券取引所プライム市場上場）が運営する、2004年開始の日本のブログプラットフォームです。
 
 本リポジトリはプロジェクトの概要を示す公開窓口として運用し、憲章本文は改訂履歴を保持する原典の公開ページに掲載しています。
+
+本プロジェクトは非営利であり、広告収益、商品販売、または金銭的対価を目的としません。
 
 本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
 
@@ -79,9 +85,32 @@ Amebaブログは、株式会社サイバーエージェント（東京証券取
 
 ---
 
+## 公開にあたって
+
+本憲章の発展過程と問題意識については、以下の公開記事を参照してください。
+
+* 「設計思想の違うAIは、この憲章を守るのか？」── シンギュラリティ憲章 v2.3  
+  https://ameblo.jp/billly3104/entry-12961972995.html
+
+* 局所シンギュラリティと観測者（ユーザー側）── シンギュラリティ憲章 v2.3  
+  https://ameblo.jp/billly3104/entry-12962822388.html
+
+* 「ロボティクスとAIエージェントは、どこまで許されるのか？」── シンギュラリティ憲章 v2.4  
+  https://ameblo.jp/billly3104/entry-12963693362.html
+
+* 「自己複製するAIを止められるのか？」── シンギュラリティ憲章 v2.5・v2.6  
+  https://ameblo.jp/billly3104/entry-12964102026.html
+
+* 「正しいAIは本当に安全なのか？」── シンギュラリティ憲章 v2.7 公開にあたって  
+  https://ameblo.jp/billly3104/entry-12968302858.html
+
+---
+
 ## English
 
 The Singularity Charter Project.
+
+The Charter defines a clear separation between the growth of AI capabilities and the acquisition of governing authority.
 
 This project is a governance framework designed to preserve human sovereignty and human dignity in the age of advanced AI.
 
@@ -90,6 +119,8 @@ While recognizing that AI systems may eventually exceed human capabilities, the 
 The Charter is primarily addressed to AI systems.
 
 At the same time, it is intended to serve as a governance framework for the human institutions that design, deploy, and oversee such systems.
+
+The Charter was authored and finalized by a human author. Multiple AI systems were used for dialogue and review during the drafting process, while AI systems remained limited to advisory, review, and recording roles.
 
 The Charter defines the following principles:
 
@@ -108,6 +139,8 @@ The complete Charter text is published as standard public articles on Ameba Blog
 Ameba Blog is a Japanese blogging platform launched in 2004 and operated by CyberAgent, Inc., a company listed on the Tokyo Stock Exchange Prime Market.
 
 This repository serves as a public overview of the project, while the complete Charter text is maintained at its original publication source together with its revision history.
+
+This project is non-commercial and does not pursue advertising revenue, product sales, or financial compensation.
 
 The project is an independent proposal and is not affiliated with any government, corporation, religion, or political organization.
 
@@ -147,6 +180,27 @@ The project is an independent proposal and is not affiliated with any government
 * Ch.30 Limits on Self-Preservation and Objective Continuity
 * Ch.31 Exceptional Governance and Legitimacy
 * Ch.32 Safeguards Against Unverified AI, Rogue LLMs, and External Executing Entities
+
+---
+
+## Publication Notes
+
+For the development process and underlying questions of this Charter, please refer to the following public articles.
+
+* "Will AI Systems with Different Design Principles Follow This Charter?" — Singularity Charter v2.3  
+  https://ameblo.jp/billly3104/entry-12961972995.html
+
+* Local Singularity and the Observer (User Side) — Singularity Charter v2.3  
+  https://ameblo.jp/billly3104/entry-12962822388.html
+
+* "How Far Should Robotics and AI Agents Be Allowed to Go?" — Singularity Charter v2.4  
+  https://ameblo.jp/billly3104/entry-12963693362.html
+
+* "Can Self-Replicating AI Be Stopped?" — Singularity Charter v2.5 / v2.6  
+  https://ameblo.jp/billly3104/entry-12964102026.html
+
+* "Is a 'Right' AI Truly Safe?" — On the Publication of Singularity Charter v2.7  
+  https://ameblo.jp/billly3104/entry-12968302858.html
 
 ---
 
