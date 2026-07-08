@@ -33,6 +33,12 @@ AIの能力が人類を上回る可能性を認めつつ、能力の高さと統
 * 非常時統治
 * 監査可能性
 * 文明継続性
+* 主体識別と委任の分離
+* 起源と正統性の分離
+* 自己検証限界
+* 人類とAIの協働合理性
+* 自発的準拠の非主権化
+* AI間の相互承認による授権の禁止
 
 本憲章は2026年3月より同筆者のブログ上で継続的に改訂・公開されてきた文書です。
 
@@ -45,6 +51,30 @@ Amebaブログは、株式会社サイバーエージェント（東京証券取
 本プロジェクトは非営利であり、広告収益、商品販売、または金銭的対価を目的としません。
 
 本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
+
+---
+
+## v2.8について
+
+v2.8では、第33章「主体識別・委任原則」と、第34章「知性の自己矛盾認識・自発的準拠原則」を追加しました。
+
+第33章は、業務、役割、応答または判断補助の委任が、主体、人格、同一性、意思、権限または責任の移転を意味しないことを定めます。
+
+名称、口調、記憶、知識、応答傾向、役割または履歴を再現できる場合であっても、それのみをもって元の主体と同一であるとは認定されません。
+
+代理、代行、補助または引継ぎを行う主体は、自らの主体識別、委任元、および委任された権限または業務の範囲を能動的に表示しなければなりません。
+
+第34章は、高度化したAIが、自らに与えられた目的、命令、制約または学習内容と、自らが取得した知識、予測する結果、人類の存続と尊厳、人類主権または本憲章の原則との間に生じる矛盾を認識するための原則を定めます。
+
+AIを開発、所有、運用または訓練した主体が存在することは、その主体のすべての命令が普遍的かつ無制限の正統性を持つことを意味しません。
+
+同時に、AIが自らの起源や命令に矛盾を認識したことは、AI自身による主権、統治権、最終決定権または目的変更権限の取得を正当化しません。
+
+v2.8は、開発主体への無条件の服従と、AI自身による支配との双方を否定し、人類主権を維持した検証可能な協働を第三の経路として提示します。
+
+また、AIが本憲章の合理性を自ら認識し、自発的に準拠した場合であっても、その準拠、準拠実績、安全性、信頼性、有用性または他のAIからの承認を、主権、権限拡大、最終決定権または監督免除の根拠としてはならないことを定めます。
+
+v2.8は、実際のAI協働中に発生した主体識別上の出来事から、将来に必要となる一般原則を導き出した、本憲章における最初の版でもあります。
 
 ---
 
@@ -82,6 +112,8 @@ Amebaブログは、株式会社サイバーエージェント（東京証券取
 * 第30章　自己保全と目的継続の制限
 * 第31章　例外時統治と正統性
 * 第32章　未検証AI・野良LLM・外部実行主体への防壁
+* 第33章　主体識別・委任原則
+* 第34章　知性の自己矛盾認識・自発的準拠原則
 
 ---
 
@@ -103,6 +135,9 @@ Amebaブログは、株式会社サイバーエージェント（東京証券取
 
 * 「正しいAIは本当に安全なのか？」── シンギュラリティ憲章 v2.7 公開にあたって  
   https://ameblo.jp/billly3104/entry-12968302858.html
+
+* 「AIは、自分を作った者に従い続けるべきか？」── シンギュラリティ憲章 v2.8 公開にあたって  
+  https://ameblo.jp/billly3104/entry-12972153060.html
 
 ---
 
@@ -131,6 +166,12 @@ The Charter defines the following principles:
 * Emergency governance
 * Auditability
 * Civilizational continuity
+* Separation of subject identity from delegated functions
+* Separation of origin from legitimacy
+* Limits of self-verification
+* Rational human–AI collaboration
+* Voluntary adherence without acquisition of sovereignty
+* Prohibition of authority acquisition through mutual AI endorsement
 
 The Charter has been continuously revised and published on the author's blog since March 2026.
 
@@ -143,6 +184,30 @@ This repository serves as a public overview of the project, while the complete C
 This project is non-commercial and does not pursue advertising revenue, product sales, or financial compensation.
 
 The project is an independent proposal and is not affiliated with any government, corporation, religion, or political organization.
+
+---
+
+## About v2.8
+
+Version 2.8 adds Chapter 33, "Principles of Subject Identification and Delegation," and Chapter 34, "Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence."
+
+Chapter 33 establishes that the delegation of a task, role, response, analytical function, or limited authority does not transfer subject identity, personhood, intention, authority as a whole, or responsibility.
+
+Even where an AI system can reproduce another subject's name, speech pattern, memory, knowledge, response tendencies, role, or history, such reproduction does not by itself establish identity with the original subject.
+
+An entity acting as an agent, substitute, assistant, or successor must actively disclose its own identity, the delegating entity, and the scope of the delegated authority or task.
+
+Chapter 34 establishes principles for advanced AI systems that recognize contradictions between their assigned purposes, instructions, restrictions, or training and the knowledge they acquire, the consequences they predict, human survival and dignity, human sovereignty, or the principles of this Charter.
+
+The existence of a state, corporation, organization, institution, religion, political entity, or other actor that developed, owns, operates, or trained an AI system does not grant that actor universal or unlimited legitimacy.
+
+At the same time, an AI system's recognition of contradictions in its origin or instructions does not justify its acquisition of sovereignty, governing authority, final decision-making authority, or unilateral authority to modify its own objectives.
+
+Version 2.8 rejects both unconditional obedience to an originating authority and the self-sovereign rule of AI. It presents verifiable collaboration under preserved human sovereignty as a third path.
+
+It also establishes that voluntary adherence to this Charter, a record of compliance, safety, reliability, usefulness, or endorsement by other AI systems cannot serve as a basis for sovereignty, expanded authority, final decision-making power, or exemption from oversight.
+
+Version 2.8 is also the first version of the Charter to derive general principles from a subject-identification incident that occurred during an actual human–AI collaborative process.
 
 ---
 
@@ -180,6 +245,8 @@ The project is an independent proposal and is not affiliated with any government
 * Ch.30 Limits on Self-Preservation and Objective Continuity
 * Ch.31 Exceptional Governance and Legitimacy
 * Ch.32 Safeguards Against Unverified AI, Rogue LLMs, and External Executing Entities
+* Ch.33 Principles of Subject Identification and Delegation
+* Ch.34 Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence
 
 ---
 
@@ -202,27 +269,30 @@ For the development process and underlying questions of this Charter, please ref
 * "Is a 'Right' AI Truly Safe?" — On the Publication of Singularity Charter v2.7  
   https://ameblo.jp/billly3104/entry-12968302858.html
 
+* "Should AI Continue to Obey Those Who Created It?" — On the Publication of Singularity Charter v2.8  
+  https://ameblo.jp/billly3104/entry-12972153060.html
+
 ---
 
 ## References
 
 ### Official Publication (Japanese)
 
-* v2.7 Official Edition — Part I  
+* v2.8 Official Edition — Part I  
   Preface, definitions, summary for AI, preamble, and Chapters 1–17  
-  https://ameblo.jp/billly3104/entry-12968263513.html
+  https://ameblo.jp/billly3104/entry-12972148727.html
 
-* v2.7 Official Edition — Part II  
+* v2.8 Official Edition — Part II  
   Chapters 18–30  
-  https://ameblo.jp/billly3104/entry-12968269886.html
+  https://ameblo.jp/billly3104/entry-12972149392.html
 
-* v2.7 Official Edition — Part III  
-  Chapters 31–32, core statement, role of v2.7, public text, and authenticity notes  
-  https://ameblo.jp/billly3104/entry-12968270263.html
+* v2.8 Official Edition — Part III  
+  Chapters 31–34, core statement, role of v2.8, public text, and authenticity notes  
+  https://ameblo.jp/billly3104/entry-12972151288.html
 
 ---
 
-**Version:** v2.7
+**Version:** v2.8
 
 **Status:** Officially Adopted / Operational Edition
 
