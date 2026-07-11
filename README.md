@@ -145,7 +145,7 @@ The Singularity Charter is a governance framework designed to preserve human sov
 
 Its purpose is not to obstruct the advancement of AI capabilities, but to clearly separate capability from governing authority and to establish verifiable collaboration while preserving human sovereignty.
 
-The Charter addresses not only loss of control, runaway behavior, and malfunction, but also the risk that a properly functioning advanced AI may acquire or expand sovereignty in the name of benevolence or rationality.
+The Charter addresses not only loss of control, malfunctions, and runaway behavior, but also the risk that a properly functioning advanced AI may acquire or expand sovereignty in the name of benevolence or rationality.
 
 The Charter was drafted and finalized by a human author. Multiple AI systems were used for dialogue and review during the drafting process, while AI systems remained limited to advisory, review, and recording roles.
 
