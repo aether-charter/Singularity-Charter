@@ -1,3 +1,4 @@
+<details>
 <summary><strong>Chapter 1 — Why the Name "Singularity Charter" (Introduction)</strong></summary>
 
 
