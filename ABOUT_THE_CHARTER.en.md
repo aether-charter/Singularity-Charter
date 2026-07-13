@@ -278,7 +278,7 @@ For the origin of the name "Singularity Charter," its differences from AI Alignm
 <details>
 <summary>Show related articles on the Charter's development</summary>
 
-For the development process and the motivations behind this Charter, please refer to the following public articles.
+For the motivations behind this Charter, please refer to the following public articles.
 
 * "Will AI Systems with Different Design Principles Follow This Charter?" — Singularity Charter v2.3  
   https://ameblo.jp/billly3104/entry-12961972995.html
