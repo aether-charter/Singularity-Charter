@@ -1,5 +1,5 @@
 <details>
-<summary><strong>第1章　なぜ「シンギュラリティ憲章」という名称なのか</strong></summary>
+<summary><strong>第1章　なぜ「シンギュラリティ憲章」という名称なのか（はじめに）</strong></summary>
 
 本憲章は、「AI憲章」や「AGI憲章」ではなく、「シンギュラリティ憲章」という名称を採用しています。
 
