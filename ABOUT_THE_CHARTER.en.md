@@ -269,6 +269,7 @@ Version 2.8 is also the first version of the Charter to derive general principle
 </details>
 
 ---
+For the origin of the name "Singularity Charter," its differences from AI Alignment, AI Safety, and AI Governance, the governing principles it aims for, and its developmental history across versions, see [ABOUT_THE_CHARTER.en.md](./ABOUT_THE_CHARTER.en.md).
 
 ## Publication Notes
 
@@ -298,13 +299,6 @@ For the development process and the motivations behind this Charter, please refe
 </details>
 
 ---
-
-
-## References
-
-### Official Publication (Japanese)
-
-For the origin of the name "Singularity Charter," its differences from AI Alignment, AI Safety, and AI Governance, the governing principles it aims for, and its developmental history across versions, see [ABOUT_THE_CHARTER.en.md](./ABOUT_THE_CHARTER.en.md).
   
 * v2.8 Official Edition — Part I  
   Preface, definitions, summary for AI, preamble, and Chapters 1–17  
