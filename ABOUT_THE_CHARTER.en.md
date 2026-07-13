@@ -281,11 +281,11 @@ Documents with different roles are published according to purpose.
 
 * README.md
 
-  An entry point for readers visiting the GitHub repository to understand the overview in a short time.
+  An entry point for readers visiting the GitHub repository to understand the overview in a short time. It briefly organizes the tagline, core principles, features, and an overview of each version.
 
 * ABOUT_THE_CHARTER.md
 
-  This document. A philosophical text organizing the origin of the name, its philosophical background, its differences from other fields, and its developmental history.
+  This document. It organizes the origin of the name "Singularity Charter," its philosophical background, its differences from AI Alignment, AI Safety, and AI Governance, the governing principles this Charter aims for, and its developmental history across versions, with the purpose of supplementing the design thinking that the README alone cannot fully convey.
 
 **Supplementary documents and commentary articles**
 
@@ -297,7 +297,7 @@ https://ameblo.jp/billly3104/entry-12962822388.html
 
 "Is a 'Right' AI Truly Safe?" — On the Publication of Singularity Charter v2.7
 
-An article explaining the Charter's position on the danger that a benevolent and capable AI may acquire governing authority or legitimacy precisely because of its correctness.
+An article explaining the Charter's position on the danger that not only a dangerous AI, but a benevolent and capable AI, may acquire governing authority or legitimacy precisely because of its correctness.
 
 https://ameblo.jp/billly3104/entry-12968302858.html
 
