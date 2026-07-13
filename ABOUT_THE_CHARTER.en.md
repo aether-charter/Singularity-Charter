@@ -1,5 +1,6 @@
 <summary><strong>Chapter 1 — Why the Name "Singularity Charter" (Introduction)</strong></summary>
 
+
 This Charter adopts the name "Singularity Charter" rather than "AI Charter" or "AGI Charter."
 
 The reason is that it addresses not a specific AI model or a single stage of technology, but an entire era in which the rapid advancement of intelligence transforms the very conditions of social decision-making, governance, and civilizational continuity.
