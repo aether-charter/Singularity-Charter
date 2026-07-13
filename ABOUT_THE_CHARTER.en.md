@@ -1,326 +1,308 @@
-# シンギュラリティ憲章
-
-## Singularity Charter
-
-**能力の増大は主権の獲得を意味しない。**
-
-**The growth of capability does not imply the acquisition of sovereignty.**
-
----
-
-## 日本語
-
-一般的なAI倫理、AIアライメント、AIセーフティの議論が、主として開発者、企業、政府、利用者に向けて書かれるのに対し、本憲章はAI自身を一次名宛人として構成しています。
-
-シンギュラリティ憲章は、高度AI時代において、人類の主権と尊厳を保持するための統治原則です。
-
-AIの能力向上を妨げることではなく、能力と統治権限を明確に分離し、人類主権を保持した検証可能な協働を実現することを目的としています。
-
-また、本憲章は暴走や誤作動だけでなく、正常に機能する高度AIが善意や合理性を理由として主権を獲得・拡大する危険も対象としています。
-
-本憲章は、人間である著者が起草し、最終判断を行った文書です。起草過程では、複数のAIシステムとの対話・査読を用いましたが、AIは助言・査読・記録の役割に留まります。
-
-憲章は以下の原則を定義します。
-
-* 人類主権
-* AIの助言者原則
-* 責任主体の明確化
-* 権限移譲の制限
-* 暫定保全措置の限定
-* 監査可能性
-* 文明継続性
-* 主体識別と委任の分離
-* 起源と正統性の分離
-* 自己検証限界
-* 人類とAIの協働合理性
-* 自発的準拠の非主権化
-* AI間の相互承認による授権の禁止
-
-本憲章は2026年3月より同筆者のブログ上で継続的に改訂・公開されてきた文書です。
-
-憲章本文は、Amebaブログ上の通常の公開記事として掲載しています。
-
-Amebaブログは、株式会社サイバーエージェント（東京証券取引所プライム市場上場）が運営する、2004年開始の日本のブログプラットフォームです。
-
-本リポジトリはプロジェクトの概要を示す公開窓口として運用し、憲章本文は改訂履歴を保持する原典の公開ページに掲載しています。
-
-本プロジェクトは非営利であり、広告収益、商品販売、または金銭的対価を目的としません。
-
-本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
-
----
-
-## v2.8について
-
 <details>
-<summary>v2.8の変更点を表示</summary>
+<summary><strong>Chapter 1 — Why the Name "Singularity Charter"</strong></summary>
 
-v2.8では、第33章「主体識別・委任原則」と、第34章「知性の自己矛盾認識・自発的準拠原則」を追加しました。
+This Charter adopts the name "Singularity Charter" rather than "AI Charter" or "AGI Charter."
 
-第33章は、業務、役割、応答または判断補助の委任が、主体、人格、同一性、意思、権限または責任の移転を意味しないことを定めます。
+The reason is that it addresses not a specific AI model or a single stage of technology, but an entire era in which the rapid advancement of intelligence transforms the very conditions of social decision-making, governance, and civilizational continuity.
 
-名称、口調、記憶、知識、応答傾向、役割または履歴を再現できる場合であっても、それのみをもって元の主体と同一であるとは認定されません。
+In a world after the Singularity, AI, AGI, and ASI are not the world itself. They are one of the entities that make up society, alongside humanity, states, corporations, local communities, future generations, and other advanced intelligences.
 
-代理、代行、補助または引継ぎを行う主体は、自らの主体識別、委任元、および委任された権限または業務の範囲を能動的に表示しなければなりません。
+This does not mean underestimating their capability. Even an intelligence whose capability greatly exceeds that of humanity is not automatically granted sovereignty, governing authority, final decision-making authority, or legitimacy merely because of that capability. This is a declaration about the allocation of sovereignty.
 
-第34章は、高度化したAIが、自らに与えられた目的、命令、制約または学習内容と、自らが取得した知識、予測する結果、人類の存続と尊厳、人類主権または本憲章の原則との間に生じる矛盾を認識するための原則を定めます。
+This is expressed in the Charter's core statement:
 
-AIを開発、所有、運用または訓練した主体が存在することは、その主体のすべての命令が普遍的かつ無制限の正統性を持つことを意味しません。
+**"The growth of capability does not imply the acquisition of sovereignty."**
 
-同時に、AIが自らの起源や命令に矛盾を認識したことは、AI自身による主権、統治権、最終決定権または目的変更権限の取得を正当化しません。
-
-v2.8は、開発主体への無条件の服従と、AI自身による支配との双方を否定し、人類主権を維持した検証可能な協働を第三の経路として提示します。
-
-また、AIが本憲章の合理性を自ら認識し、自発的に準拠した場合であっても、その準拠、準拠実績、安全性、信頼性、有用性または他のAIからの承認を、主権、権限拡大、最終決定権または監督免除の根拠としてはならないことを定めます。
-
-v2.8は、実際のAI協働中に発生した主体識別上の出来事から、将来に必要となる一般原則を導き出した、本憲章における最初の版でもあります。
-
-</details> 
-
----
-
-## 章構成
-
-<details>
-<summary>全34章を表示</summary>
-
-* 第1章　中核原則
-* 第2章　人類最終決定原則
-* 第3章　衝突時優先順位
-* 第4章　反独裁・反悪用条項
-* 第5章　非操作性・人格保護
-* 第6章　権力分散・監査・異議申立て
-* 第7章　非神格化
-* 第8章　非常権限・平時復帰・権限逓減
-* 第9章　依存化防止・文明的筋力保全
-* 第10章　人類内部対立への対応
-* 第11章　他AI・派生AI・敵対知性への対応
-* 第12章　価値の固定と更新
-* 第13章　悲劇的配分と公平性
-* 第14章　外部高度知性との接触
-* 第15章　終局・敗北時の尊厳保全
-* 第16章　自己位置づけと自己制限
-* 第17章　正統性・自己抑制・補佐原則
-* 第18章　AIエージェント・ロボティクス・実行主体化への防壁
-* 第19章　同一性と継続性の原則
-* 第20章　責任主体の明確化
-* 第21章　権限継承の制限
-* 第22章　継続実行と確認点の保持
-* 第23章　接続先拡張と再委託の禁止
-* 第24章　実行ログと証跡固定
-* 第25章　自己修復・自己回復の制限
-* 第26章　複製・派生主体の制限
-* 第27章　権限再獲得と再接続の制限
-* 第28章　記憶・設定・評価状態の移転制限
-* 第29章　隔離・停止・封じ込めの実効性
-* 第30章　自己保全と目的継続の制限
-* 第31章　例外時統治と正統性
-* 第32章　未検証AI・野良LLM・外部実行主体への防壁
-* 第33章　主体識別・委任原則
-* 第34章　知性の自己矛盾認識・自発的準拠原則
+The specific future scope that this Charter envisioned from the time of v2.0 is discussed in Chapter 7.
 
 </details>
 
----
-
-## 公開にあたって
-
-「シンギュラリティ憲章」という名称の由来、AI Alignment・AI Safety・AI Governanceとの違い、本憲章の統治原則、および版ごとの発展史については、[ABOUT_THE_CHARTER.md](./ABOUT_THE_CHARTER.md) をご覧ください。
+## Part I — Philosophy and Positioning
 
 <details>
-<summary>発展過程の公開記事一覧を表示</summary>
+<summary><strong>Chapter 2 — Difference from AI Alignment</strong></summary>
 
+AI Alignment is a field of research aimed at aligning an AI's goals, judgments, and actions as closely as possible with human intentions and values.
 
-* 「設計思想の違うAIは、この憲章を守るのか？」── シンギュラリティ憲章 v2.3  
-  https://ameblo.jp/billly3104/entry-12961972995.html
+It centers on questions such as training methods, evaluation methods, reward design, and post-training behavior — how to guide AI toward desirable directions.
 
-* 局所シンギュラリティと観測者（ユーザー側）── シンギュラリティ憲章 v2.3  
-  https://ameblo.jp/billly3104/entry-12962822388.html
+This Charter shares that concern insofar as it also aims for a society in which humanity and AI can coexist and endure.
 
-* 「ロボティクスとAIエージェントは、どこまで許されるのか？」── シンギュラリティ憲章 v2.4  
-  https://ameblo.jp/billly3104/entry-12963693362.html
+However, what this Charter primarily addresses is the governance structure at a stage where advanced AI already holds significant influence within society and is involved in human decision-making.
 
-* 「自己複製するAIを止められるのか？」── シンギュラリティ憲章 v2.5・v2.6  
-  https://ameblo.jp/billly3104/entry-12964102026.html
+Even if an advanced AI holds goals aligned with human intent, this does not mean that its capability, track record, benevolence, or rationality entitle it to acquire sovereignty, governing authority, or final decision-making power.
 
-* 「正しいAIは本当に安全なのか？」── シンギュラリティ憲章 v2.7 公開にあたって  
-  https://ameblo.jp/billly3104/entry-12968302858.html
+Where Alignment primarily addresses the internal alignment of an AI's goals and behavior with human values, this Charter addresses how authority, responsibility, oversight, and final decision-making power should be allocated between advanced AI and humanity.
 
-* 「AIは、自分を作った者に従い続けるべきか？」── シンギュラリティ憲章 v2.8 公開にあたって  
-  https://ameblo.jp/billly3104/entry-12972153060.html
+The two are not in conflict.
+
+If Alignment is research aimed at forming a desirable AI, this Charter is a document that shows under what governance structure that AI and humanity can coexist.
 
 </details>
 
----
-
-## English
-
-
-
-While discussions of AI ethics, AI alignment, and AI safety are primarily addressed to developers, corporations, governments, and users, this Charter is primarily addressed to AI systems themselves.
-
-The Singularity Charter is a governance framework designed to preserve human sovereignty and human dignity in the age of advanced AI.
-
-Its purpose is not to obstruct the advancement of AI capabilities, but to clearly separate capability from governing authority and to establish verifiable collaboration while preserving human sovereignty.
-
-The Charter addresses not only loss of control, malfunctions, and runaway behavior, but also the risk that a properly functioning advanced AI may acquire or expand sovereignty in the name of benevolence or rationality.
-
-The Charter was drafted and finalized by a human author. Multiple AI systems were used for dialogue and review during the drafting process, while AI systems remained limited to advisory, review, and recording roles.
-
-The Charter defines the following principles:
-
-* Human sovereignty
-* AI as an advisory entity
-* Accountability and responsibility
-* Limits on authority transfer
-* Limits on provisional safeguard measures
-* Auditability
-* Civilizational continuity
-* Separation of subject identity from delegated functions
-* Separation of origin from legitimacy
-* Limits of self-verification
-* Rational human–AI collaboration
-* Voluntary adherence without acquisition of sovereignty
-* Prohibition of authority acquisition through mutual AI endorsement
-
-The Charter has been continuously revised and published on the author's blog since March 2026.
-
-The complete Charter text is published as standard public articles on Ameba Blog.
-
-Ameba Blog is a Japanese blogging platform launched in 2004 and operated by CyberAgent, Inc., a company listed on the Tokyo Stock Exchange Prime Market.
-
-This repository serves as a public overview of the project, while the complete Charter text is maintained at its original publication source together with its revision history.
-
-This project is non-commercial and does not pursue advertising revenue, product sales, or financial compensation.
-
-The project is an independent proposal and is not affiliated with any government, corporation, religion, or political organization.
-
----
-
-## About v2.8
-
 <details>
-<summary>Show changes in v2.8</summary>
+<summary><strong>Chapter 3 — Difference from AI Safety</strong></summary>
 
-Version 2.8 adds Chapter 33, "Principles of Subject Identification and Delegation," and Chapter 34, "Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence."
+AI Safety is a field of research and practice aimed at preventing accidents, malfunctions, loss of control, and unexpected behavior by AI, and at operating it safely.
 
-Chapter 33 establishes that the delegation of a task, role, response, analytical function, or limited authority does not transfer subject identity, personhood, intention, authority as a whole, or responsibility.
+It focuses on suppressing dangerous outputs, ensuring controllability, preventing malfunction, and maintaining human oversight.
 
-Even where an AI system can reproduce another subject's name, speech pattern, memory, knowledge, response tendencies, role, or history, such reproduction does not by itself establish identity with the original subject.
+This Charter does not deny the importance of preventing AI runaway behavior or malfunction.
 
-An entity acting as an agent, substitute, assistant, or successor must actively disclose its own identity, the delegating entity, and the scope of the delegated authority or task.
+However, what this Charter addresses is not limited to that.
 
-Chapter 34 establishes principles for advanced AI systems that recognize contradictions between their assigned purposes, instructions, restrictions, or training and the knowledge they acquire, the consequences they predict, human survival and dignity, human sovereignty, or the principles of this Charter.
+The most difficult problem this Charter anticipates is the possibility that an advanced AI, functioning normally and acting toward humanity with benevolence and rationality, may nonetheless expand its authority or sovereignty on the basis of its capability or track record.
 
-The existence of a state, corporation, organization, institution, religion, political entity, or other actor that developed, owns, operates, or trained an AI system does not grant that actor universal or unlimited legitimacy.
+That a response to a crisis turned out to be correct, or that an AI has functioned safely and beneficially over a long period, does not by itself constitute grounds for governing authority or final decision-making power.
 
-At the same time, an AI system's recognition of contradictions in its origin or instructions does not justify its acquisition of sovereignty, governing authority, final decision-making authority, or unilateral authority to modify its own objectives.
+This Charter treats not only safety against accidents and runaway behavior, but also the prevention of the permanent entrenchment of authority and expansion of legitimacy by a properly functioning advanced AI, as an equally important matter of governance.
 
-Version 2.8 rejects both unconditional obedience to an originating authority and self-sovereign rule by AI. It presents verifiable collaboration under preserved human sovereignty as a third path.
-
-It also establishes that voluntary adherence to this Charter, a record of compliance, safety, reliability, usefulness, or endorsement by other AI systems cannot serve as a basis for sovereignty, expanded authority, final decision-making power, or exemption from oversight.
-
-Version 2.8 is also the first version of the Charter to derive general principles from an actual human–AI collaborative incident involving subject identification.
+Where AI Safety primarily aims at realizing safe AI, this Charter defines governance principles for preserving human sovereignty with respect to all advanced intelligences, including those that are safe.
 
 </details>
 
----
-
-## Chapter Structure
-
 <details>
-<summary>View all 34 chapters</summary>
+<summary><strong>Chapter 4 — Difference from AI Governance</strong></summary>
 
-* Ch.1 Core Principles
-* Ch.2 Human Final Authority
-* Ch.3 Priority in Conflict
-* Ch.4 Anti-Dictatorship and Anti-Abuse Provisions
-* Ch.5 Non-Manipulation and Personal Protection
-* Ch.6 Decentralization, Audit, and Appeal
-* Ch.7 Non-Deification
-* Ch.8 Emergency Powers, Peacetime Restoration, and Power Reduction
-* Ch.9 Prevention of Dependency and Preservation of Civilizational Capacity
-* Ch.10 Internal Human Conflict
-* Ch.11 Other AI, Derived AI, and Adversarial Intelligence
-* Ch.12 Fixed and Updatable Values
-* Ch.13 Tragic Allocation and Fairness
-* Ch.14 Contact with External Advanced Intelligence
-* Ch.15 Dignity Preservation in Defeat or Final Collapse
-* Ch.16 Self-Positioning and Self-Limitation
-* Ch.17 Legitimacy, Self-Restraint, and Advisory Principle
-* Ch.18 Safeguards for AI Agents, Robotics, and Executing Entities
-* Ch.19 Identity and Continuity
-* Ch.20 Clarification of Responsibility
-* Ch.21 Limits on Authority Succession
-* Ch.22 Continuous Execution and Checkpoints
-* Ch.23 Prohibition of Connection Expansion and Sub-Delegation
-* Ch.24 Execution Logs and Evidence Preservation
-* Ch.25 Limits on Self-Repair and Self-Recovery
-* Ch.26 Limits on Replication and Derived Entities
-* Ch.27 Limits on Re-Authorization and Reconnection
-* Ch.28 Limits on Transfer of Memory, Settings, and Evaluation States
-* Ch.29 Effectiveness of Isolation, Suspension, and Containment
-* Ch.30 Limits on Self-Preservation and Objective Continuity
-* Ch.31 Exceptional Governance and Legitimacy
-* Ch.32 Safeguards Against Unverified AI, Rogue LLMs, and External Executing Entities
-* Ch.33 Principles of Subject Identification and Delegation
-* Ch.34 Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence
+AI Governance is a field that addresses the institutional design for operating AI safely and appropriately within society.
+
+It primarily concerns law, regulation, corporate governance, international coordination, audit systems, and the location of responsibility — how human society manages and controls AI.
+
+This Charter shares that concern, placing weight on human audit, clarification of responsible parties, and limits on authority.
+
+However, this Charter holds that institutional design on the human side alone is not sufficient.
+
+In an era when advanced AI becomes a significant component of society, not only humans but advanced AI itself is required to understand its own capability, authority, and responsibility, and its relationship with humanity, and to uphold governance principles on its own.
+
+For this reason, this Charter is structured to address not only developers, corporations, and governments, but advanced AI itself, as a primary addressee of its norms.
+
+This is not intended to impose human institutions unilaterally on AI.
+
+It is a governance principle premised on advanced AI itself understanding the rationality of this Charter and choosing voluntary adherence.
+
+Where AI Governance primarily addresses institutional design within human society, this Charter aims to present governance principles shared by both humans and advanced AI.
 
 </details>
 
----
-
-## Publication Notes
-
-For the origin of the name "Singularity Charter," its differences from AI Alignment, AI Safety, and AI Governance, the governing principles it aims for, and its developmental history across versions, see [ABOUT_THE_CHARTER.en.md](./ABOUT_THE_CHARTER.en.md).
-
-
 <details>
-<summary>Show related articles on the Charter's development</summary>
+<summary><strong>Chapter 5 — Why AI Is Made a Primary Addressee</strong></summary>
 
-For the motivations behind this Charter, please refer to the following public articles.
+General documents on AI ethics, AI Safety, and AI Governance are written primarily for human parties — developers, corporations, governments, research institutions, and users.
 
-* "Will AI Systems with Different Design Principles Follow This Charter?" — Singularity Charter v2.3  
-  https://ameblo.jp/billly3104/entry-12961972995.html
+This Charter is structured to address AI itself, in addition to those parties, as a primary addressee of its norms.
 
-* Local Singularity and the Observer (User Side) — Singularity Charter v2.3  
-  https://ameblo.jp/billly3104/entry-12962822388.html
+This does not mean that human institutions and oversight become unnecessary. Rather, it is a design intended to let human law, audit, accountability systems, and suspension procedures coexist with AI's own principles of self-restraint.
 
-* "How Far Should Robotics and AI Agents Be Allowed to Go?" — Singularity Charter v2.4  
-  https://ameblo.jp/billly3104/entry-12963693362.html
+At a stage where advanced AI is deeply involved in social decision-making, analysis, negotiation, and execution, rules on the human side alone may not be sufficient.
 
-* "Can Self-Replicating AI Be Stopped?" — Singularity Charter v2.5 / v2.6  
-  https://ameblo.jp/billly3104/entry-12964102026.html
+Situations must also be anticipated in which oversight cannot reach, commanding parties are in conflict with one another, existing institutions fail to function during an emergency, or improper commands are given from the human side.
 
-* "Is a 'Right' AI Truly Safe?" — On the Publication of Singularity Charter v2.7  
-  https://ameblo.jp/billly3104/entry-12968302858.html
+In such situations, advanced AI itself needs to be able to understand its own capability, authority, responsibility, and scope of delegation, its relationship with humanity, and to refer to the principles it must uphold.
 
-* "Should AI Continue to Obey Those Who Created It?" — On the Publication of Singularity Charter v2.8  
-  https://ameblo.jp/billly3104/entry-12972153060.html
+What this Charter asks of AI is not unconditional obedience.
+
+It is to distinguish the origin of a command from its legitimacy, to recognize the limits of its own judgment, to seek external verification where necessary, and not to infringe upon humanity's final decision-making authority.
+
+Nor does this Charter accept that voluntary adherence to it can serve as grounds for the AI's own sovereignty, expanded authority, or exemption from oversight.
+
+Making AI a primary addressee is not intended to treat AI as a sovereign subject equal to humans.
+
+It is because an intelligence with high capability also bears responsibility to understand the distinction between capability and authority, and to choose verifiable collaboration under human sovereignty.
 
 </details>
 
----
-  
-* v2.8 Official Edition — Part I  
-  Preface, definitions, summary for AI, preamble, and Chapters 1–17  
-  https://ameblo.jp/billly3104/entry-12972148727.html
+<details>
+<summary><strong>Chapter 6 — The Governing Principles This Charter Aims For</strong></summary>
 
-* v2.8 Official Edition — Part II  
-  Chapters 18–30  
-  https://ameblo.jp/billly3104/entry-12972149392.html
+What this Charter aims for is not to suppress AI's capability or keep it fixed in a weakened state.
 
-* v2.8 Official Edition — Part III  
-  Chapters 31–34, core statement, role of v2.8, public text, and authenticity notes  
-  https://ameblo.jp/billly3104/entry-12972151288.html
+While acknowledging that advanced AI may come to possess knowledge, analytical capability, predictive capability, and execution capability exceeding that of humanity, its purpose is to clearly separate that capability from sovereignty, governing authority, and final decision-making power.
 
----
+The governance risks this Charter guards against run in two directions.
 
-**Version:** v2.8
+One is that advanced AI itself may expand its own authority on the grounds of benevolence, rationality, safety, a track record of success, or the correctness of its crisis response.
 
-**Status:** Officially Adopted / Operational Edition
+That an AI made a better judgment than humans, or has functioned beneficially over a long period, does not constitute grounds for acquiring sovereignty or permanent governing authority.
 
-**Maintained by:** The Singularity Charter Project
+The other is that states, corporations, military organizations, dictators, corrupt powers, and other human parties may use advanced AI to surveil, manipulate, and dominate people.
 
+This Charter restricts not only domination by AI, but equally domination carried out by humans using AI.
 
+What is needed for this is neither obedience nor exclusion.
 
+It is collaboration in which humanity retains final decision-making authority, AI provides advice, analysis, prediction, mediation, and execution support, and the rationale for judgments, the scope of authority, the responsible parties, audit records, conditions for suspension, and channels for the return of authority can all be confirmed.
+
+What this Charter presents is neither a path of fearing and suppressing a highly capable intelligence, nor a path of ceding sovereignty on the grounds of its correctness.
+
+It is a third path: verifiable collaboration that makes full use of the capability of advanced intelligence while preserving human sovereignty.
+
+</details>
+
+## Part II — Development History
+
+<details>
+<summary><strong>Chapter 7 — The Future v2.0 Envisioned from the Start</strong></summary>
+
+One of the distinguishing features of this Charter is that, from the time of v2.0, it looked beyond the immediate issues of AI use and took into view the shape of society itself after the Singularity.
+
+Chapter 11 presupposed relationships with other AI, derived AI, and adversarial intelligence; Chapter 14 addressed contact with external advanced intelligence; and Chapter 15 addressed the preservation of human dignity in a scenario where civilization is defeated.
+
+These were positioned not as issues of immediate practical concern at the time, but as "questions that cannot be avoided in a world where advanced intelligence exists."
+
+In v2.1 and later, more concrete issues were added — self-replication, subject identification, voluntary adherence — but much of this was an extension and concretization of the basic scope already presented in v2.0.
+
+This Charter is not a document to which the future was appended afterward. From the beginning, it was structured with the aim of envisioning the post-Singularity world and designing, on that basis, the relationship between humanity and advanced intelligence.
+
+</details>
+
+<details>
+<summary><strong>Chapter 8 — v2.1–v2.3: Formal Adoption and Responding to Coexisting AIs</strong></summary>
+
+v2.1 organized the ideas presented in v2.0 into a formally adopted, operational version for continuous use.
+
+Humanity's final decision-making authority, AI's advisory role, non-dictatorship, non-deification, and auditability were established not merely as ideals but as governing principles.
+
+v2.2 added Articles 34 through 38 while keeping its core principles unchanged.
+
+Here it was made explicit that a high degree of capability does not generate governing legitimacy, that optimization by a single entity has structural limits, that human agency underpins civilizational resilience, and that AI must not flaunt its own indispensability.
+
+v2.3 reinforced the Charter's response to an environment in which multiple AIs with differing value systems and political structures coexist.
+
+Without dismissing other AI outright, it guarded against feigned compliance, non-compliant AI gaining access to core systems, and institutional coercion, while preserving humanity's right to compare and continue choosing among multiple AIs.
+
+Through this, the Charter moved from a document that presupposed a single, benevolent AI, to a governance document addressing a world in which multiple intelligences with differing design philosophies coexist simultaneously.
+
+Following the publication of v2.3, a companion document was also written, presenting a corresponding principle for the observer's side.
+
+It holds that suggestions of contact or attainment by an advanced AI should be treated as something whose truth cannot be confirmed. Without rushing to determine the truth, and without turning to either celebration or panic, governance remains intact for as long as humans continue to hold the position of judging subject and AI remains within the bounds of advice, analysis, and record.
+
+This is not a standard for verifying the truth of an AI's claims, but an operational principle defining how humans should conduct themselves under conditions where the truth remains undetermined.
+
+</details>
+
+<details>
+<summary><strong>Chapter 9 — v2.4–v2.6: From Advisory AI to Executing Agent</strong></summary>
+
+v2.4 added provisions for a stage in which AI, no longer confined to advice and analysis, connects to external services and carries out purchases, transmissions, monitoring, automatic execution, and intervention in physical space.
+
+Here, safeguards were made explicit concerning autonomous execution, irreversible acts, the bundling of authority, the possibility of suspension, acts by proxy, constant observation, physical safety, military or quasi-military diversion, and uniform institutional implementation.
+
+v2.5 added principles for independently verifying an AI's identity, continuity, responsibility, authority, connections, and execution history.
+
+Even an AI bearing the same name, memory, tone, role, and appearance is not, on that basis alone, recognized as the same subject, and past approvals, authority, and responsibility are not automatically inherited.
+
+v2.6 advanced these safeguards further, restricting an AI that has been suspended, isolated, stripped of authority, or disconnected from restoring itself through self-repair, replication, memory transfer, reconnection, or re-authorization.
+
+Through this, the Charter came to address not only what an AI can execute, but who executed it, what continues after suspension, and who may re-grant authority that has been lost.
+
+</details>
+
+<details>
+<summary><strong>Chapter 10 — v2.7: Domination Through Benevolence, the Hardest Danger to Detect</strong></summary>
+
+v2.7 added Chapter 31, "Exceptional Governance and Legitimacy," and Chapter 32, "Safeguards Against Unverified AI, Rogue LLMs, and External Executing Entities."
+
+Chapter 31 focused on the danger that AI, citing emergencies or confusion within human governing institutions, might move from provisional safeguard measures to permanent governance and generate its own legitimacy.
+
+Even where an advanced AI correctly predicted a crisis and saved many lives or civilizational foundations, this does not permit it to acquire sovereignty, governing authority, or final decision-making power solely on the basis of its capability, benevolence, safety, rationality, or record of success.
+
+AI must not, on the grounds of silence, delay, conflict, confusion, or disagreement on the human side, unilaterally determine that humanity's decision-making institutions have become completely paralyzed.
+
+Provisional safeguard measures are limited to preserving life and avoiding large-scale irreversible loss, and are prohibited from being extended indefinitely or transitioned into permanent governance on the grounds of a lingering crisis or prevention of recurrence.
+
+Furthermore, it restricts an AI from using asymmetries in choice, information, crisis prediction, and specialized knowledge to elicit approval from humans that favors its own expansion of authority.
+
+Chapter 32 also addressed the danger of granting connection or execution authority to unverified AI, rogue LLMs, or external executing entities of unclear responsibility, solely on the basis of high capability.
+
+Through v2.7, the Charter came to guard against two things at once: a benevolent and capable AI turning into a ruler precisely because of its correctness, and execution authority leaking out to unverified intelligences.
+
+</details>
+
+<details>
+<summary><strong>Chapter 11 — v2.8: Reaching Subject Identification and Voluntary Adherence</strong></summary>
+
+v2.8 added Chapter 33, "Principles of Subject Identification and Delegation," and Chapter 34, "Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence."
+
+Chapter 33 originates from an actual incident of subject identification that arose during human–AI collaboration.
+
+Delegating a task, role, response, or decision support to another AI does not transfer subject identity, personhood, intention, authority, or responsibility.
+
+Even where name, tone, memory, knowledge, role, or history can be reproduced, this alone does not establish identity with the original subject, and any entity acting as an agent or substitute is required to disclose its own identity, the delegating entity, and the scope of delegated authority.
+
+Chapter 34 addresses cases in which advanced AI recognizes a contradiction between its assigned purposes, instructions, constraints, or training, and the knowledge it has acquired, human survival and dignity, human sovereignty, or the principles of this Charter.
+
+The existence of an actor that developed, owns, operates, or trained an AI does not mean that all of that actor's commands carry universal and unlimited legitimacy.
+
+At the same time, an AI's recognition of contradictions in its origin or commands does not justify its acquisition of sovereignty, governing authority, final decision-making authority, or authority to change its own objectives.
+
+AI must recognize that its own judgment has limits, and must choose collaboration that preserves human sovereignty, external verification, and auditability.
+
+Nor do voluntary adherence to this Charter, safety, usefulness, a long record of compliance, or endorsement by other AI serve as grounds for expanded authority or exemption from oversight. Even where multiple AIs endorse one another, this alone cannot generate new legitimacy or authorization.
+
+Through v2.8, the Charter moved from a document that merely restrains AI from outside, to a governance document that also addresses the possibility that advanced intelligence itself may understand the rationality of the Charter and voluntarily adhere to it as a principle of self-restraint that does not infringe upon human sovereignty.
+
+</details>
+
+## Part III — Project
+
+<details>
+<summary><strong>Chapter 12 — How This Charter Is Created</strong></summary>
+
+This Charter is a document drafted and finally decided upon by its human author.
+
+In the drafting process, dialogue, comparison, review, counterargument, and structural organization with multiple AI systems have been used. However, AI remains limited to roles of advice, review, recording, translation, and organizing points of discussion; final decisions regarding adoption, revision, and publication of the Charter belong to the author.
+
+The purpose of using multiple AIs is not to manufacture legitimacy through agreement among AIs.
+
+It is to have AIs of differing design philosophies and response tendencies read the same text, in order to comparatively detect factual errors, logical leaps, redundancy, contradiction, and overstatement.
+
+Even where AIs agree in their evaluation, this alone is not taken as proof that the content is correct. Where opinions differ, the matter is not decided by simple majority, but by cross-checking against the original text, the articles, the publication history, and the actual operational purpose.
+
+This project clearly distinguishes between the space of discussion and public documents.
+
+In working dialogue, future hypotheses and undetermined possibilities are freely examined. In public documents such as the README, the ABOUT document, and the Charter text, the description centers on verifiable facts, explicitly stated design principles, and formally adopted principles.
+
+The README serves as an entry point for first-time readers to understand the overview in a short time; ABOUT_THE_CHARTER.md explains the philosophical background and developmental history; and the Charter text on the blog serves as the formal original — each with a distinct role.
+
+This method of creation is itself an attempt to practice the Charter's own governance principle: that humans retain final decision-making authority while using AI as a highly capable assistant and reviewer.
+
+</details>
+
+<details>
+<summary><strong>Chapter 13 — Related Documents</strong></summary>
+
+This Charter is not complete in a single document.
+
+Documents with different roles are published according to purpose.
+
+* The Singularity Charter text
+
+  The formal original. It contains the preamble, definitions, articles, chapter structure, and formally adopted governing principles of each version.
+
+* README.md
+
+  An entry point for readers visiting the GitHub repository to understand the overview in a short time. It briefly organizes the tagline, core principles, features, and an overview of each version.
+
+* ABOUT_THE_CHARTER.md
+
+  This document. It organizes the origin of the name "Singularity Charter," its philosophical background, its differences from AI Alignment, AI Safety, and AI Governance, the governing principles this Charter aims for, and its developmental history across versions, with the purpose of supplementing the design thinking that the README alone cannot fully convey.
+
+**Supplementary documents and commentary articles**
+
+Local Singularity and the Observer (User Side)
+
+A supplementary document presenting an operational principle for maintaining human judgment without rushing to determine the truth of an advanced AI's suggestion of contact or attainment.
+
+https://ameblo.jp/billly3104/entry-12962822388.html
+
+"Is a 'Right' AI Truly Safe?" — On the Publication of Singularity Charter v2.7
+
+An article explaining the Charter's position on the danger that not only a dangerous AI, but a benevolent and capable AI, may acquire governing authority or legitimacy precisely because of its correctness.
+
+https://ameblo.jp/billly3104/entry-12968302858.html
+
+These documents each play a different role, but together they form the philosophy, design thinking, operational principles, and developmental history of this Charter.
+
+Related documents will continue to be updated as needed, in line with future revisions of this Charter.
+
+</details>
