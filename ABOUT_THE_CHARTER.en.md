@@ -309,11 +309,7 @@ For the development process and the motivations behind this Charter, please refe
 ### Official Publication (Japanese)
 
 For the origin of the name "Singularity Charter," its differences from AI Alignment, AI Safety, and AI Governance, the governing principles it aims for, and its developmental history across versions, see [ABOUT_THE_CHARTER.en.md](./ABOUT_THE_CHARTER.en.md).
-
-
-「シンギュラリティ憲章」という名称の由来、AI Alignment・AI Safety・AI Governanceとの違い、本憲章の統治原則、および版ごとの発展史については、[ABOUT_THE_CHARTER.md](./ABOUT_THE_CHARTER.md) をご覧ください。
-
-
+  
 * v2.8 Official Edition — Part I  
   Preface, definitions, summary for AI, preamble, and Chapters 1–17  
   https://ameblo.jp/billly3104/entry-12972148727.html
