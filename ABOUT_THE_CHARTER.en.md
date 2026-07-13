@@ -1,5 +1,4 @@
-<details>
-<summary><strong>Chapter 1 — Why the Name "Singularity Charter"</strong></summary>
+<summary><strong>Chapter 1 — Why the Name "Singularity Charter" (Introduction)</strong></summary>
 
 This Charter adopts the name "Singularity Charter" rather than "AI Charter" or "AGI Charter."
 
