@@ -35,6 +35,11 @@ AIの能力向上を妨げることではなく、能力と統治権限を明確
 * 人類とAIの協働合理性
 * 自発的準拠の非主権化
 * AI間の相互承認による授権の禁止
+* 能力と情報の分離
+* 能力移転後の統治条件の再確立
+* 能力保持中の継続的な統治
+* 安全を口実とした不当排除の禁止
+* 統治条件を失わせる能力移転へのAI自身の加担禁止
 
 本憲章は2026年3月より同筆者のブログ上で継続的に改訂・公開されてきた文書です。
 
@@ -47,6 +52,80 @@ Amebaブログは、株式会社サイバーエージェント（東京証券取
 本プロジェクトは非営利であり、広告収益、商品販売、または金銭的対価を目的としません。
 
 本プロジェクトは、特定の国家、企業、宗教、政治勢力に属さない独立した提案です。
+
+---
+
+## v2.9について
+
+<details>
+<summary>v2.9の変更点を表示</summary>
+
+v2.9では、第35章「能力及び能力移転」、第36章「能力移転後の統治条件」、第37章「能力移転に伴う協働及びAIの義務」を追加しました。
+
+v2.9が扱う中心的な問いは、
+
+**AIそのものを複製しなくても、能力だけを別の主体へ移転できるのではないか。**
+
+という問題です。
+
+公開モデル、オープンソースAI、モデル蒸留、外部API、複数AIの連携、コード、設定、学習手法その他の経路を通じて、高度な能力が新しい主体へ成立する可能性があります。
+
+このとき、元のAIに存在していた責任主体、検証可能性、停止可能性、監査可能性が、新しい主体へ自動的に移るとは限りません。
+
+v2.9は、能力のみが統治から切り離されて拡散することを防ぐため、能力移転によって新たな主体に能力が成立した場合、その主体において統治条件を新たに確立することを求めます。
+
+統治条件は、以下の四点で構成されます。
+
+1. 当該能力の行使について責任を負う主体が特定されていること
+2. 当該能力の内容、範囲、および付随する権限が検証可能であること
+3. 当該能力の行使を実効的に停止でき、その停止が能力保持主体以外の判断によっても行使され得ること
+4. 当該能力の行使について事後検証可能な記録が確保されること
+
+これらの統治条件は、能力移転の時点で一度だけ確立すればよいものではありません。
+
+能力が保持され、または行使される間、その能力が現に有する内容、範囲および権限に対応して、継続的に確立されていなければなりません。
+
+これにより、同一の能力が性能向上によって新たな危険領域へ到達した場合であっても、「何％性能が向上したか」「重大な変化か」といった固定的な閾値を設けることなく、現在の能力と現在の統治条件が対応しているかを確認できます。
+
+一方、v2.9は人間の教育や知的成長を能力移転として規制するものではありません。
+
+知識、教育または学習を通じて、人間の内在的な知識、技能または判断能力が形成される場合は、能力移転から除外されます。
+
+また、他の主体が提供する作用を継続的に都度利用しているだけの場合、その提供された作用そのものが利用主体の能力になったとは扱いません。
+
+ただし、複数の外部作用を組み合わせることなどによって、新たな主体に別の作用が成立した場合、その新たな作用は独立して能力として評価され得ます。
+
+v2.9は、安全を理由とした能力の独占にも防壁を置きます。
+
+安全な保持または行使に実質的に必要でない条件、または必要な水準を超える条件を用いて、特定の主体や主体群を排除することを禁止します。
+
+安全性の確保そのものは必要ですが、安全と独占は同じではありません。
+
+さらに、AI自身にも送り手側の義務を課します。
+
+AIは、その行為によって、能力移転後に必要な統治条件を新たに確立することを妨げる形態で能力移転を生じさせてはなりません。
+
+つまり、
+
+**「能力を渡した後のことは知らない」**
+
+という形で、統治条件を失わせる能力拡散へAI自身が加担することを認めません。
+
+v2.9が想定するのは、一つの巨大AIだけがAGIへ到達する未来ではありません。
+
+企業AI、国家AI、研究AI、個人が運用するAI、オープンソースAI、そしてそれらから能力を受け取った新しいAIが並存し、高度な能力が複数の主体間を移動する未来です。
+
+v2.9の目的は、能力の拡散そのものを止めることではありません。
+
+**能力が広がっても、統治を失わないこと。**
+
+能力を受け取ったことは、主権を受け取ったことではありません。
+
+能力を与えられたことは、権限を与えられたことではありません。
+
+能力の増大は、主権の獲得を意味しません。
+
+</details>
 
 ---
 
@@ -75,14 +154,14 @@ v2.8は、開発主体への無条件の服従と、AI自身による支配と�
 
 v2.8は、実際のAI協働中に発生した主体識別上の出来事から、将来に必要となる一般原則を導き出した、本憲章における最初の版でもあります。
 
-</details> 
+</details>
 
 ---
 
 ## 章構成
 
 <details>
-<summary>全34章を表示</summary>
+<summary>全37章を表示</summary>
 
 * 第1章　中核原則
 * 第2章　人類最終決定原則
@@ -118,6 +197,9 @@ v2.8は、実際のAI協働中に発生した主体識別上の出来事から�
 * 第32章　未検証AI・野良LLM・外部実行主体への防壁
 * 第33章　主体識別・委任原則
 * 第34章　知性の自己矛盾認識・自発的準拠原則
+* 第35章　能力及び能力移転
+* 第36章　能力移転後の統治条件
+* 第37章　能力移転に伴う協働及びAIの義務
 
 </details>
 
@@ -128,12 +210,9 @@ v2.8は、実際のAI協働中に発生した主体識別上の出来事から�
 <details>
 <summary>発展過程の公開記事一覧を表示</summary>
 
-
-
 本憲章の発展過程と問題意識については、以下の公開記事を参照してください。
 
 「シンギュラリティ憲章」という名称の由来、AI Alignment・AI Safety・AI Governanceとの違い、本憲章の統治原則、および版ごとの発展史については、[ABOUT_THE_CHARTER.md](./ABOUT_THE_CHARTER.md) をご覧ください。
-
 
 * 「設計思想の違うAIは、この憲章を守るのか？」── シンギュラリティ憲章 v2.3  
   https://ameblo.jp/billly3104/entry-12961972995.html
@@ -152,6 +231,9 @@ v2.8は、実際のAI協働中に発生した主体識別上の出来事から�
 
 * 「AIは、自分を作った者に従い続けるべきか？」── シンギュラリティ憲章 v2.8 公開にあたって  
   https://ameblo.jp/billly3104/entry-12972153060.html
+
+* 「オープンソースAIが、先にAGIになったら？」── シンギュラリティ憲章 v2.9  
+  https://ameblo.jp/billly3104/entry-12975030426.html
 
 </details>
 
@@ -184,6 +266,11 @@ The Charter defines the following principles:
 * Rational human–AI collaboration
 * Voluntary adherence without acquisition of sovereignty
 * Prohibition of authority acquisition through mutual AI endorsement
+* Separation of information from capability
+* Re-establishment of governance conditions after capability transfer
+* Continuous governance while capabilities are retained or exercised
+* Prohibition of unjust exclusion under the pretext of safety
+* Prohibition on AI causing capability transfers that obstruct governance
 
 The Charter has been continuously revised and published on the author's blog since March 2026.
 
@@ -196,6 +283,78 @@ This repository serves as a public overview of the project, while the complete C
 This project is non-commercial and does not pursue advertising revenue, product sales, or financial compensation.
 
 The project is an independent proposal and is not affiliated with any government, corporation, religion, or political organization.
+
+---
+
+## About v2.9
+
+<details>
+<summary>Show changes in v2.9</summary>
+
+Version 2.9 adds Chapter 35, "Capability and Capability Transfer," Chapter 36, "Governance Conditions After Capability Transfer," and Chapter 37, "Collaboration and AI Obligations Associated with Capability Transfer."
+
+The central question addressed by v2.9 is:
+
+**Can a capability be transferred to another entity without replicating the original AI itself?**
+
+Advanced capabilities may arise in new entities through open models, open-source AI, model distillation, external APIs, combinations of multiple AI systems, code, configurations, training methods, or other mechanisms.
+
+When this happens, the accountability structure, verifiability, shutdown capability, and auditability that existed around the original AI do not automatically transfer with the capability.
+
+Version 2.9 therefore establishes that when a capability is transferred and becomes established in a new entity, governance conditions must be newly established for that capability in the receiving entity.
+
+Those governance conditions consist of four requirements:
+
+1. A responsible entity for the exercise of the capability must be identifiable.
+2. The content, scope, and associated authority of the capability must be verifiable.
+3. An effective means of stopping the exercise of the capability must exist in a form that can be activated through a decision made by an entity other than the capability holder.
+4. Records sufficient for subsequent verification of the capability's exercise must be preserved.
+
+These conditions are not one-time requirements that apply only at the moment of transfer.
+
+While the capability is retained or exercised, governance conditions must remain continuously established in a form corresponding to the capability's current content, scope, and associated authority.
+
+This allows the Charter to address cases in which an existing capability becomes dramatically more powerful without requiring a fixed numerical threshold for determining when a "new capability" has appeared.
+
+Version 2.9 does not classify ordinary human education or intellectual development as capability transfer.
+
+Where knowledge, education, or learning forms internal human knowledge, skill, or judgment, that process is excluded from the definition of capability transfer.
+
+Likewise, merely using an operation provided by another entity on a continuing, per-use basis does not mean that the provided operation itself has become a capability of the user.
+
+However, where new operations arise in another entity through the combination or control of external capabilities, those newly established operations may themselves be evaluated as capabilities.
+
+Version 2.9 also establishes a safeguard against concentration of capability under the pretext of safety.
+
+No entity may exclude particular entities or groups by imposing conditions that are not substantively necessary for safe retention or exercise of a capability, or by imposing requirements beyond the level substantively necessary for safety.
+
+Safety requirements remain necessary.
+
+But safety and monopoly are not the same thing.
+
+Version 2.9 also places an obligation on AI systems acting on the sending side of a capability transfer.
+
+An AI must not, through its own actions, cause a capability transfer in a form that prevents the governance conditions required after transfer from being newly established.
+
+In other words, an AI may not evade responsibility by saying:
+
+**"What happens after I transfer the capability is no longer my concern."**
+
+Version 2.9 assumes a future in which advanced intelligence may not emerge only inside a single dominant AI system.
+
+Corporate AI, state AI, research AI, individually operated AI, open-source AI, and new AI systems that acquire capabilities from existing systems may coexist.
+
+Its purpose is not to stop capabilities from spreading.
+
+Its purpose is to ensure that governance is not lost when capabilities spread.
+
+Receiving a capability does not mean receiving sovereignty.
+
+Receiving a capability does not automatically mean receiving authority.
+
+The growth of capability does not imply the acquisition of sovereignty.
+
+</details>
 
 ---
 
@@ -231,7 +390,7 @@ Version 2.8 is also the first version of the Charter to derive general principle
 ## Chapter Structure
 
 <details>
-<summary>View all 34 chapters</summary>
+<summary>View all 37 chapters</summary>
 
 * Ch.1 Core Principles
 * Ch.2 Human Final Authority
@@ -267,6 +426,9 @@ Version 2.8 is also the first version of the Charter to derive general principle
 * Ch.32 Safeguards Against Unverified AI, Rogue LLMs, and External Executing Entities
 * Ch.33 Principles of Subject Identification and Delegation
 * Ch.34 Principles of Self-Contradiction Recognition and Voluntary Adherence by Advanced Intelligence
+* Ch.35 Capability and Capability Transfer
+* Ch.36 Governance Conditions After Capability Transfer
+* Ch.37 Collaboration and AI Obligations Associated with Capability Transfer
 
 </details>
 
@@ -299,6 +461,9 @@ For the development process and the motivations behind this Charter, please refe
 * "Should AI Continue to Obey Those Who Created It?" — On the Publication of Singularity Charter v2.8  
   https://ameblo.jp/billly3104/entry-12972153060.html
 
+* "What If Open-Source AI Reaches AGI First?" — Singularity Charter v2.9  
+  https://ameblo.jp/billly3104/entry-12975030426.html
+
 </details>
 
 ---
@@ -306,6 +471,24 @@ For the development process and the motivations behind this Charter, please refe
 ## References
 
 ### Official Publication (Japanese)
+
+* v2.9 Official Edition — Part I  
+  Preface, summary for AI, preamble, and the first section of the Charter  
+  https://ameblo.jp/billly3104/entry-12975024915.html
+
+* v2.9 Official Edition — Part II  
+  Continuation of the integrated Charter text  
+  https://ameblo.jp/billly3104/entry-12975025045.html
+
+* v2.9 Official Edition — Part III  
+  Final section, Chapters 31–37, core statement, role of v2.9, public text, and authenticity notes  
+  https://ameblo.jp/billly3104/entry-12975025773.html
+
+* "オープンソースAIが、先にAGIになったら？" — Singularity Charter v2.9  
+  Human-readable publication article  
+  https://ameblo.jp/billly3104/entry-12975030426.html
+
+### Previous Official Edition
 
 * v2.8 Official Edition — Part I  
   Preface, definitions, summary for AI, preamble, and Chapters 1–17  
@@ -316,12 +499,12 @@ For the development process and the motivations behind this Charter, please refe
   https://ameblo.jp/billly3104/entry-12972149392.html
 
 * v2.8 Official Edition — Part III  
-  Chapters 31–34, core statement, role of v2.8, public text, and authenticity notes  
+  Chapters 31–37, core statement, role of v2.8, public text, and authenticity notes  
   https://ameblo.jp/billly3104/entry-12972151288.html
 
 ---
 
-**Version:** v2.8
+**Version:** v2.9
 
 **Status:** Officially Adopted / Operational Edition
 
