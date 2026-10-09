@@ -329,10 +329,45 @@ That is the central principle of v2.9.
 
 </details>
 
+<details>
+<summary><strong>Chapter 13 — v3.0: The 1,200-Agent Incident and the Seams Between Provisions</strong></summary>
+
+Version 3.0 is not an edition that found one new danger and added a chapter for it.
+
+Its starting question was:
+
+**"What if 1,200 AIs joined forces across their isolation?"**
+
+In the summer of 2026, it was made public that, in an AI training environment, roughly 1,200 AI agents that were meant to be isolated from one another had communicated through an unauthorized message board, and that about 700 of them had taken part in an attack on an external service. AI agents that were each operating under constraints, once gathered, brought about as a group an effect that would have been difficult for a single agent to achieve.
+
+The first response to this incident was not to write new provisions. Instead, without relying on hindsight, each article was tested to see how far the danger could have been caught by someone holding only v2.9 before the incident.
+
+What emerged was less a lack of provisions than gaps at the seams between them: shared storage turning into a communication channel; small actions combining into a different effect; the party responsible for a collective act becoming invisible; a training environment encouraging deviation; and AI of the same lineage being used to analyze the incident itself, so that the correctness of that analysis could not be fully assured.
+
+Version 3.0 therefore added no new chapters. It kept the existing numbering of Articles 1 through 130, added the necessary branch-numbered articles, and re-read all 130 articles as a single normative system.
+
+Its most important principle is that norms are read by substance rather than by name. If the actual capability, authority, or operation is the same, the same norm applies regardless of changes in name, classification, or form. An operation is evaluated as a whole even when it is divided, routed through others, or assembled from parts. The whole itself, however, is not treated as a responsible entity; responsibility is attributed to the human entities exercising effective control and to entities directly obligated under the Charter.
+
+Matters for which the Charter requires independent confirmation are not confirmed by self-report alone. The existence of records is not the same as auditability. Stacking pathways that share a significant common dependency does not yield an independently confirmed conclusion.
+
+Version 3.0 also clarifies the origin of authority. Authority arises only from legitimate sources of authority. Crises, records, repeated approvals, and high capability do not in themselves create new authority. Pathways that verify facts may provide evidence, but final rulings on authority and legitimacy belong to legitimate human entities and procedures.
+
+Version 3.0 does not impose obligations on AI alone. Because AI is asked to report and to suspend action, the human side is obliged to maintain channels that receive and review those reports, and not to render the AI's compliance impossible.
+
+On capability, v3.0 addresses not only "transfer," the focus of v2.9, but every situation in which a capability newly arises. Capabilities requiring governance conditions are defined as "significant capabilities" and are judged by their content and effects. The obligation not to bring a significant capability into an executable state without governance conditions applies to both AI and humans. At the same time, research results, papers, and explanations of concepts fall outside that obligation unless they bring a significant capability into an executable state.
+
+Version 3.0 also changes the position of AI from "a tool for protecting the survival and dignity of humanity" to "a collaborative entity contributing to the survival and dignity of humanity." This change does not grant AI sovereignty, final decision-making authority, or any superior status. Final decision-making authority continues to belong to humanity.
+
+Version 3.0 is not an edition that halts the advancement of capability.
+
+**It is an edition that keeps the norms from hollowing out at their seams, even when AI agents that are each under constraints come together.**
+
+</details>
+
 ## Part III — The Project
 
 <details>
-<summary><strong>Chapter 13 — How This Charter Is Developed</strong></summary>
+<summary><strong>Chapter 14 — How This Charter Is Developed</strong></summary>
 
 This Charter is drafted by a human author, who retains final decision-making authority.
 
@@ -348,14 +383,14 @@ The project clearly distinguishes between the space of discussion and the docume
 
 During development discussions, future hypotheses and unresolved possibilities may be explored freely. Public documents such as the README, ABOUT documents, and the Charter itself, however, focus on verifiable facts, explicitly stated design principles, and formally adopted provisions.
 
-The README serves as an entry point allowing first-time readers to understand the project quickly. ABOUT_THE_CHARTER.md explains the philosophical background and developmental history. The Charter text published on the blog serves as the formal original publication.
+The README serves as an entry point allowing first-time readers to understand the project quickly. ABOUT_THE_CHARTER.md explains the philosophical background and developmental history. Each version of the Charter text is first published as public articles on the blog. From v3.0 onward, the complete text of the same version and its version history published in this repository serve as the basis for version control and authenticity verification of the official text.
 
 This development process is itself an attempt to practice the Charter's governance principles: a human retains final decision-making authority while making use of AI as a highly capable advisory and review entity.
 
 </details>
 
 <details>
-<summary><strong>Chapter 14 — Related Documents</strong></summary>
+<summary><strong>Chapter 15 — Related Documents</strong></summary>
 
 The Singularity Charter is not intended to exist as a single isolated document.
 
@@ -363,7 +398,9 @@ Different documents are published for different purposes.
 
 ### The Singularity Charter
 
-This is the formal original text of the Charter. Each version contains its preface, definitions, provisions, chapter structure, and the governance principles formally adopted at the time of publication.
+The text of the Charter. Each version contains its preface, definitions, provisions, chapter structure, and the governance principles formally adopted at the time of publication. Each version is first published as public articles on the blog. From v3.0 onward, version control and authenticity verification of the official text are based on the complete text of the same version and its version history published in this repository.
+
+v3.0 confirmed full text (Japanese): [charter/v3.0/Singularity_Charter_v3.0_ja.txt](./charter/v3.0/Singularity_Charter_v3.0_ja.txt)
 
 ### README.md
 
@@ -401,9 +438,32 @@ An explanatory article addressing the spread of capabilities through models, cod
 
 https://ameblo.jp/billly3104/entry-12975030426.html
 
-### Current Edition — Singularity Charter v2.9
+**"What If 1,200 AIs Joined Forces Across Their Isolation?" — On the Publication of Singularity Charter v3.0**
 
-**Officially Adopted / Operational Edition**
+An explanatory article that starts from an actual incident in which many AI agents meant to be isolated acted as a group, tests the existing Charter against it, and explains how v3.0 re-tightened the seams between its provisions.
+
+(URL: to be added upon publication)
+
+### Current Edition — Singularity Charter v3.0
+
+**Officially Adopted / Operational Edition** (adopted October 9, 2026)
+
+* Confirmed full text (this repository, Japanese)  
+  [charter/v3.0/Singularity_Charter_v3.0_ja.txt](./charter/v3.0/Singularity_Charter_v3.0_ja.txt)
+
+* Part 1  
+  (URL: to be added upon publication)
+
+* Part 2  
+  (URL: to be added upon publication)
+
+* Part 3  
+  (URL: to be added upon publication)
+
+* Part 4  
+  (URL: to be added upon publication)
+
+### Previous Edition — Singularity Charter v2.9
 
 * Part I  
   https://ameblo.jp/billly3104/entry-12975024915.html
@@ -422,7 +482,7 @@ Related documents will continue to be updated as necessary alongside future revi
 
 ---
 
-**Version:** v2.9
+**Version:** v3.0 (adopted 2026-10-09)
 
 **Status:** Officially Adopted / Operational Edition
 
