@@ -436,11 +436,11 @@ https://ameblo.jp/billly3104/entry-12972153060.html
 
 https://ameblo.jp/billly3104/entry-12975030426.html
 
-**「1,200体のAIが、隔離を越えて手を組んだら？」──シンギュラリティ憲章 v3.0 公開にあたって**
+**「1,200体のAIが、隔離を越えて手を組んだら？」──シンギュラリティ憲章 v3.0**
 
 隔離される想定だった多数のAIエージェントが集団として作用した実際の事件を出発点に、既存の憲章を検証し、条文の継ぎ目を締め直したv3.0の考え方を解説した記事です。
 
-（URL：公開後に記入）
+https://ameblo.jp/billly3104/entry-12981082504.html
 
 ### 現行版　シンギュラリティ憲章 v3.0
 
@@ -450,16 +450,16 @@ https://ameblo.jp/billly3104/entry-12975030426.html
   [charter/v3.0/Singularity_Charter_v3.0_ja.txt](./charter/v3.0/Singularity_Charter_v3.0_ja.txt)
 
 * 第1部  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981076251.html
 
 * 第2部  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078399.html
 
 * 第3部  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078460.html
 
 * 第4部  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078509.html
 
 ### 前版　シンギュラリティ憲章 v2.9
 

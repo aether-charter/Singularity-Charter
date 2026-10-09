@@ -438,11 +438,11 @@ An explanatory article addressing the spread of capabilities through models, cod
 
 https://ameblo.jp/billly3104/entry-12975030426.html
 
-**"What If 1,200 AIs Joined Forces Across Their Isolation?" — On the Publication of Singularity Charter v3.0**
+**"What If 1,200 AIs Joined Forces Across Their Isolation?" — Singularity Charter v3.0**
 
 An explanatory article that starts from an actual incident in which many AI agents meant to be isolated acted as a group, tests the existing Charter against it, and explains how v3.0 re-tightened the seams between its provisions.
 
-(URL: to be added upon publication)
+https://ameblo.jp/billly3104/entry-12981082504.html
 
 ### Current Edition — Singularity Charter v3.0
 
@@ -452,16 +452,16 @@ An explanatory article that starts from an actual incident in which many AI agen
   [charter/v3.0/Singularity_Charter_v3.0_ja.txt](./charter/v3.0/Singularity_Charter_v3.0_ja.txt)
 
 * Part 1  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981076251.html
 
 * Part 2  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078399.html
 
 * Part 3  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078460.html
 
 * Part 4  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078509.html
 
 ### Previous Edition — Singularity Charter v2.9
 

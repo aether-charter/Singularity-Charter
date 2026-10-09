@@ -228,8 +228,8 @@ v2.9の基本原則は、能力の拡散そのものを禁止することでは�
 * 「オープンソースAIが、先にAGIになったら？」── シンギュラリティ憲章 v2.9  
   https://ameblo.jp/billly3104/entry-12975030426.html
 
-* 「1,200体のAIが、隔離を越えて手を組んだら？」── シンギュラリティ憲章 v3.0 公開にあたって  
-  （URL：公開後に記入）
+* 「1,200体のAIが、隔離を越えて手を組んだら？」── シンギュラリティ憲章 v3.0  
+  https://ameblo.jp/billly3104/entry-12981082504.html
 
 </details>
 
@@ -244,23 +244,23 @@ v2.9の基本原則は、能力の拡散そのものを禁止することでは�
 
 * シンギュラリティ憲章 v3.0 正式採用版／運用版【第1部】  
   冒頭文、AIへの要旨、前文、第1章〜第17章  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981076251.html
 
 * シンギュラリティ憲章 v3.0 正式採用版／運用版【第2部】  
   第18章〜第29章  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078399.html
 
 * シンギュラリティ憲章 v3.0 正式採用版／運用版【第3部】  
   第30章〜第34章  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078460.html
 
 * シンギュラリティ憲章 v3.0 正式採用版／運用版【第4部】  
   第35章〜第37章、v3.0中核文、v3.0の役割、公開本文について、真正性確認メモ  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981078509.html
 
-* 「1,200体のAIが、隔離を越えて手を組んだら？」── シンギュラリティ憲章 v3.0 公開にあたって  
+* 「1,200体のAIが、隔離を越えて手を組んだら？」── シンギュラリティ憲章 v3.0  
   人間向け公開解説記事  
-  （URL：公開後に記入）
+  https://ameblo.jp/billly3104/entry-12981082504.html
 
 ### 前版
 
@@ -511,8 +511,8 @@ For the development process and the motivations behind this Charter, please refe
   Human-readable publication article  
   https://ameblo.jp/billly3104/entry-12975030426.html
 
-* "What If 1,200 AIs Joined Forces Across Their Isolation?" — On the Publication of Singularity Charter v3.0  
-  (URL: to be added upon publication)
+* "What If 1,200 AIs Joined Forces Across Their Isolation?" — Singularity Charter v3.0  
+  https://ameblo.jp/billly3104/entry-12981082504.html
 
 </details>
 
@@ -527,23 +527,23 @@ For the development process and the motivations behind this Charter, please refe
 
 * v3.0 Official Edition — Part 1  
   Preface, summary for AI, preamble, and Chapters 1–17  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981076251.html
 
 * v3.0 Official Edition — Part 2  
   Chapters 18–29  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078399.html
 
 * v3.0 Official Edition — Part 3  
   Chapters 30–34  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078460.html
 
 * v3.0 Official Edition — Part 4  
   Chapters 35–37, core statement, role of v3.0, public text, and authenticity notes  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981078509.html
 
-* "What If 1,200 AIs Joined Forces Across Their Isolation?" — On the Publication of Singularity Charter v3.0  
+* "What If 1,200 AIs Joined Forces Across Their Isolation?" — Singularity Charter v3.0  
   Human-readable publication article  
-  (URL: to be added upon publication)
+  https://ameblo.jp/billly3104/entry-12981082504.html
 
 ### Previous Official Edition
 
